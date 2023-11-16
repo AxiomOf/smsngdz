@@ -1,3 +1,3 @@
 # smsngdz
 Library for HomeWork
-There's nothing usual actually
+There's nothing usefull actually
